@@ -1,0 +1,19 @@
+.containerPrice{
+  display: flex;
+  align-items: center;
+}
+
+.sellingPrice {
+  padding-right: 16px;
+  font-size: 24px;
+  font-family: 'Lexend-SemiBold';
+  color: #1D2734;
+}
+
+.listPrice {
+  font-size: 14px;
+  font-family: 'Lexend-Regular';
+  color: rgba(29, 39, 52, 0.4);
+  text-decoration:line-through;
+  align-items: center;
+}
